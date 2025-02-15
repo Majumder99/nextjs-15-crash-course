@@ -1,0 +1,6 @@
+intercepted mane ami ek page theke arekpage e jawar jnno korbo. src page theke target page 
+e ashlei intercepted data sb dekhabe. intercepted page  e giye refresh dile or nijer data dekhabe
+not intercepted er. 
+
+src and target folder bujte hbe. src holo jetar por intercept hobe .. and target holo jeta intercept korbo
+ami src theke. 
